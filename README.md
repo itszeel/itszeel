@@ -1,16 +1,10 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=itszeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<h1>Hey there, Zeel here 👋 <img src="https://komarev.com/ghpvc/?username=itszeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" align="right" /></h1>
 
-<h1>Hey, I'm Zeel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<samp>💻 Full-Stack Developer · 🛠️ Indie Maker · 💡 Curious Thinker</samp>
 
-<samp>Full-Stack Developer · Indie Maker · Curious Thinker</samp>
+<p>I'm a <b>Full-Stack Developer</b> who works across the entire stack 🚀 Mostly with <b>Next.js</b>, <b>React.js</b>, <b>Tailwind CSS</b>, <b>TypeScript</b>, <b>Node.js</b>, and <b>PostgreSQL</b>. but I'm never tied to one stack. I pick up whatever the project demands and focus on shipping things people <b>genuinely enjoy using</b> ✨</p>
 
-<p>I like building things that feel good to use — whether that's a real-time feature, a clean interface, or a solid backend powering it all. I don't stick to one stack. I learn what the project needs and ship it.</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<hr>
 
 <h3><samp>🧰 Things I Work With</samp></h3>
 
@@ -38,21 +32,17 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux" />
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<hr>
 
 <h3><samp>🛸 Recent Projects</samp></h3>
 
-🎬 &nbsp; **[Movie Mates](https://www.moviemates.online)** — Swipe, match, and connect with people who share your taste in films through smart taste-based matching and real-time chat
+🎬 &nbsp; **[Movie Mates](https://www.moviemates.online)** — Social movie discovery app with taste-based matching and real-time chat
 
-🎵 &nbsp; **[Spotyvibe](https://spotyvibe.vercel.app)** — Create shared Spotify listening rooms, invite friends, vote on what plays next, and discover music together
+🎵 &nbsp; **[Spotyvibe](https://spotyvibe.vercel.app)** — Shared Spotify listening rooms with collaborative voting and live playback
 
-🎥 &nbsp; **[Zoomatic](https://zoomatic.vercel.app)** — Desktop app that transforms raw screen recordings into polished videos with auto cinematic zoom and cursor tracking
+🎥 &nbsp; **[Zoomatic](https://zoomatic.vercel.app)** — Desktop app that auto-applies cinematic zoom and cursor tracking to screen recordings
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<hr>
 
 <h3><samp>📬 Find Me</samp></h3>
 
@@ -60,5 +50,6 @@
   <a href="https://www.linkedin.com/in/zeel-rabadiya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://x.com/its_zeell"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
   <a href="mailto:rabadiyazeel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://zeelrabadiya.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.itszeel.site"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
+
