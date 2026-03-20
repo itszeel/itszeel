@@ -4,9 +4,7 @@
 
 <p>I'm a <b>Full-Stack Developer</b> who works across the entire stack 🚀 Mostly with <b>Next.js</b>, <b>React.js</b>, <b>Tailwind CSS</b>, <b>TypeScript</b>, <b>Node.js</b>, and <b>PostgreSQL</b>. but I'm never tied to one stack. I pick up whatever the project demands and focus on shipping things people <b>genuinely enjoy using</b> ✨</p>
 
-<hr>
-
-<h3><samp>🧰 Things I Work With</samp></h3>
+# <h3><samp>🧰 Things I Work With</samp></h3>
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js" />
@@ -32,9 +30,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux" />
 </p>
 
-<hr>
 
-<h3><samp>🛸 Recent Projects</samp></h3>
+# <h3><samp>🛸 Recent Projects</samp></h3>
 
 🎬 &nbsp; **[Movie Mates](https://www.moviemates.online)** — Social movie discovery app with taste-based matching and real-time chat
 
@@ -42,9 +39,7 @@
 
 🎥 &nbsp; **[Zoomatic](https://zoomatic.vercel.app)** — Desktop app that auto-applies cinematic zoom and cursor tracking to screen recordings
 
-<hr>
-
-<h3><samp>📬 Find Me</samp></h3>
+# <h3><samp>📬 Find Me</samp></h3>
 
 <p>
   <a href="https://www.linkedin.com/in/zeel-rabadiya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
